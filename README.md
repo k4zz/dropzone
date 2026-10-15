@@ -1,4 +1,6 @@
-# Dropzone
+<p align="center">
+  <img src="banner.png" alt="Dropzone" width="100%">
+</p>
 
 A terminal tool for unloading drone footage from a memory card. You browse the card,
 pick the recordings (with a preview and their metadata), name the flight location,
