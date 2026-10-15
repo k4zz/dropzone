@@ -1,0 +1,14 @@
+# Local settings (created on the first run)
+dropzone_config.json
+dropzone_config.json.tmp
+
+# Generated test data and moved recordings
+test_card/
+recordings/
+
+# Python
+__pycache__/
+*.pyc
+
+# Unfinished copies
+*.part
